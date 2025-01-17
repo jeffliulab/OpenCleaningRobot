@@ -14,7 +14,7 @@ This original cleaning robot project is based on ROS Noetic and Ubuntu20.04, and
 ## New SmartCleaningRobot Proposal
 
 Based on previous work, in this new project, I will add following feature:
-* Intelligent Agent built in edge device
+* Intelligent Agent built in edge device, use Jetson Nano to increase the power.
 * DIY exploration and mapping module
 * Update cleaning module
 * New control panel based on phone
